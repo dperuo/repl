@@ -6,6 +6,5 @@ def main():
   for i in array:
     print 'hello #%d!' % (i)
 
-
 if __name__ == '__main__':
   main()
